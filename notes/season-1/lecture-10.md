@@ -36,6 +36,7 @@ z(); // 7 900
 ```
 
 - Thus In simple words, we can say:
+  - A function along with its lexical scope bundled together forms a closure.
   - **\*A closure is a function** that has access to its outer function scope even after the function has returned. Meaning, A closure can remember and access variables and arguments reference of its outer function even after the function has returned.\*
 
 <br>
